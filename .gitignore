@@ -1,6 +1,14 @@
 *.meta
 *.info
 SP4X.sln
-/Library
+*.cd
+*.sln
+*.suo
+*.csproj
+*.user
+ProjectSettings/*
+/Library/*
+/Library/metadata/*
+/obj
 /Temp
 .vs

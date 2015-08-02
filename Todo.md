@@ -26,8 +26,6 @@ Done
 - [[#7: Git init the project]](#issue-7)
 - [[#8: Set up project for portabilty.]](#issue-8)
 - [[#9: Clean up .md files]](#issue-9)
-***
-***
 
 Issue List
 ==========

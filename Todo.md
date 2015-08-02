@@ -1,8 +1,7 @@
-﻿[//]: # (@TITLE: SP4X)
+[//]: # (@TITLE: SP4X)
 [//]: # (@INFO: Issue tracker - )
-<a name="top"/></a>
 [//]: # (SUMMARY_BEGIN)
-To do
+To do <a name="top"/></a>
 =====
 - [[#5: Instantiate some tiles]](#issue-5)
 - [[#6: Create an interface for GroundTile interaction.]](#issue-6) [CURRENT]  

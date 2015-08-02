@@ -8,6 +8,7 @@ Still WIP, but I like to work from different places.
 
 Software used for this project:  
 - Unity 5
+- Visual Studio Code
 - Visual Studio 2013/2015
 - Visula Studio 2013/2015 Tools for Unity
 

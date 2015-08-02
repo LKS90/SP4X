@@ -1,15 +1,14 @@
 *.meta
 *.info
-SP4X.sln
 *.cd
 *.sln
 *.suo
 *.csproj
 *.user
+.vs
 ProjectSettings/*
 /Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
 /Library/*
 /Library/metadata/*
 /obj
 /Temp
-.vs

@@ -8,18 +8,16 @@ How to links inside document (using HTML tags + .md-links):
 
 COMMENTEND#-->
 
-<a name="top"/>
-# SP4X - **[*PROJECTNAME*]**
-- - -
+<a name="top"/></a>
 
-TODO
+To do
 =====
 - [[#5: Instantiate some tiles]](#issue-5)
 - [[#6: Create an interface for GroundTile interaction.]](#issue-6) **[CURRENT]**
 ***
 
-DONE
-=====
+Done
+====
 - [[#1: Rename Model-GameObjects to sane names]](#issue-1)  
 - [[#2: Add WorldBuilder Interface for all objects which are used in WorldBuilder]](#issue-2)  
 - [[#3: Move the Model-GameObject creation completly to sub-classes]](#issue-3)

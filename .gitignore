@@ -7,6 +7,7 @@ SP4X.sln
 *.csproj
 *.user
 ProjectSettings/*
+/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
 /Library/*
 /Library/metadata/*
 /obj

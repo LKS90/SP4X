@@ -1,17 +1,5 @@
-﻿<!---#COMMENT_BEGIN
-
-How to links inside document (using HTML tags + .md-links):
-
-    Anchor element   ---|    <a name="ANCHOR"/>
-
-    Link in summary  ---|    [link text](#ANCHOR)
-    
-    An issue template is at the end of the issue list.
-
-COMMENT_END#-->
-
-<a name="top"/></a>
-
+﻿<a name="top"/></a>
+[//]: # (SUMMARY_BEGIN)
 To do
 =====
 - [[#5: Instantiate some tiles]](#issue-5)
@@ -26,7 +14,8 @@ Done
 - [[#7: Git init the project]](#issue-7)
 - [[#8: Set up project for portabilty.]](#issue-8)
 - [[#9: Clean up .md files]](#issue-9)
-
+[//]: # (SUMMARY_END)
+[//]: # (ISSUE_LIST_BEGIN)
 Issue List
 ==========
 
@@ -162,22 +151,19 @@ to the readme and added a templates to the todo.md comment.
 NONE (YET)
 
 ***
+[//]: # (ISSUE_LIST_END)
 
-<!---#TEMPLATE_BEGIN
-[@ISSUE_TEMPLATE]
-{
-    <a name="issue-{{@ISSUE_ID}}"/>
-    [[-go to top-]](#top)
-  
-    **Issue #{{@ISSUE_ID}}:** {{@TITLE}}
- 
-    **Description:**  
-    {{@DESCRIPTION}}
-
-    **Related:**
-
-    {{@RELATED_ISSUES}}
-
-    ***
-}
-TEMPLATE_END#-->
+[//]: # (ISSUE_TEMPLATE_BEGIN)
+[//]: # ('<a name="issue-{@ISSUE_ID}"/>')
+[//]: # ('[[-go to top-]](#top)')
+[//]: # ('')
+[//]: # ('**Issue: #{@ISSUE_ID}:** {@TITLE}')
+[//]: # ('')
+[//]: # ('{@DESCRIPTION}')
+[//]: # ('')
+[//]: # ('**Related:**')
+[//]: # ('')
+[//]: # ({@RELATED_ISSUES})
+[//]: # ('')
+[//]: # ('***')
+[//]: # (ISSUE_TEMPLATE_END)

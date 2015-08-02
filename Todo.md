@@ -16,7 +16,6 @@ To do
 =====
 - [[#5: Instantiate some tiles]](#issue-5)
 - [[#6: Create an interface for GroundTile interaction.]](#issue-6) [CURRENT]  
-***
 
 Done
 ====
